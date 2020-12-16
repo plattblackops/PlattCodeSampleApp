@@ -3,7 +3,7 @@ You will submit a small project .NET MVC project. While the project domain is en
 
 A project "skeleton" has been provided containing a single controller with an Index action and view, as well as four unimplemented actions. The Index view is a simple list of buttons corresponding to those unimplemented actions. DOWNLOAD this repository to your computer. (Please use the Download ZIP option. Do not use Git Clone to retrieve the project, and do not check in any changes to this repository.)
 
-A set of simple views and their associated view models has been provided. Your focus should be on the back-end code. You will be working with a public RESTful API that returns results JSON-formatted data sets based on the 7 Star Wars films. The documentation for querying the API can be found at https://swapi.co/documentation
+A set of simple views and their associated view models has been provided. Your focus should be on the back-end code. You will be working with a public RESTful API that returns results JSON-formatted data sets based on the 7 Star Wars films. The documentation for querying the API can be found at https://swapi.dev/documentation
 
 Your task is to write the backend code needed to build out the provided View Models for each of the views. You may query the Star Wars API using any built-in .NET classes you would like for making web requests. Do not use RestSharp or any other 3rd-party library/packages to query the API.
 
